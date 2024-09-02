@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663685160278",
+    "project_id": "sbsprototype",
+    "storage_bucket": "sbsprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663685160278:android:19ed1be24d3943ccd2caf7",
+        "android_client_info": {
+          "package_name": "com.example.sbs_prototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYnlQM4nhuZK_x6OiRXXrDt6gPupLZ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
